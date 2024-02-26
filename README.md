@@ -1,3 +1,6 @@
+![Screenshot (169)](https://github.com/ritik9571/reactportpolio/assets/108925869/64592795-bfad-4015-9165-deba9cafaf18)
+![Screenshot (168)](https://github.com/ritik9571/reactportpolio/assets/108925869/99d674d3-9c39-438e-be2f-ff4ce3361648)
+![Screenshot (170)](https://github.com/ritik9571/reactportpolio/assets/108925869/0760353a-f799-462b-a3c9-ed6106f5d622)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
