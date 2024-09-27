@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I was in urgent need of a new website, and they delivered within an incredibly tight deadline without compromising on quality. Their creative approach helped bring my ideas to life, and the website looks fantastic. If you need reliable and fast service, look no further!",
     },
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I’m thoroughly impressed with the level of service I received. The team guided me through every step of the process, from design to launch. They were always available to answer my questions and provided excellent support, even after the website was up and running. Truly outstanding!",
     },
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "The team’s expertise in web development is second to none. They transformed our outdated website into a modern, user-friendly platform that has significantly improved our customer experience. The technical skills they bring to the table are impressive, and I’m glad I chose them for this project.",
     },
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Working with them was a breeze! They maintained clear communication throughout the project and made sure every detail was perfect. The website they delivered exceeded my expectations in terms of design and functionality. I’ve already received positive feedback from my clients about the new look!",
     },
   ];
 
