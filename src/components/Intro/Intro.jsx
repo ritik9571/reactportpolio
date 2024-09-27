@@ -30,7 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>RITIK KUMAR</span>
           <span>
-            Frontend Developer with high level of experience in web designing
+            FullStackDeveloper Developer with high level of experience in web designing
             and development, producting the Quality work
           </span>
         </div>
@@ -39,10 +39,19 @@ const Intro = () => {
         </Link>
         {/* social icons */}
         <div className="i-icons">
-          <img src={Github} alt="" />
-          <img src={LinkedIn} alt="" />
-          <img src={Instagram} alt="" />
+        <a href="https://github.com/ritik9571" target="_blank" rel="noopener noreferrer">
+        <img src={Github} alt="GitHub" />
+         </a>
+  
+         <a href="https://www.linkedin.com/in/ritik-kumar-6ba106200/" target="_blank" rel="noopener noreferrer">
+         <img src={LinkedIn} alt="LinkedIn" />
+        </a>
+  
+         <a href="https://www.instagram.com/saasly_solution/?igsh=dnczczZndHFseTMx" target="_blank" rel="noopener noreferrer">
+          <img src={Instagram} alt="Instagram" />
+         </a>
         </div>
+
       </div>
       {/* right image side */}
       <div className="i-right">

@@ -25,14 +25,14 @@ const Works = () => {
           </span>
           <span>Brands & Clients</span>
           <spane>
-            Lorem ispum is simpley dummy text of printing of printing Lorem
+          I have had the privilege of working with various clients and companies, including Vineforce Pvt Ltd,
             <br />
-            ispum is simpley dummy text of printingLorem ispum is simpley dummy
+            where I developed full-stack web applications using .NET and React to enhance operational efficiency.
             text
             <br />
-            y dummy text of printingLorem
+            At TTL Holiday Pvt Ltd, I designed responsive web solutions that improved user engagement and streamlined the
             <br />
-            ispum is simpley dummy text of printing
+            booking process for holiday packages through intuitive navigation.
           </spane>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>

@@ -6,7 +6,7 @@ import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './resume.pdf';
+import Resume from './Resumeritikkumar1[1].pdf';
 
 const Services = () => {
   // context
@@ -27,9 +27,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
+        Design and develop responsive and interactive web
           <br />
-          ispum is simpley dummy text of printing
+          applications tailored to client requirements.
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
@@ -72,7 +72,7 @@ const Services = () => {
             emoji={Humble}
             heading={"UI/UX"}
             detail={
-              "Lorem ispum dummy text are usually use in section where we need some random text"
+              "Design visually appealing interfaces that align with branding guidelines and create a cohesive user experience."
             }
             color="rgba(252, 166, 31, 0.45)"
           />
